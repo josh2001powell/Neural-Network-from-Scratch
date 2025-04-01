@@ -2,6 +2,10 @@ I am aiming to produce the a Neural Network from scratch without any special fun
 Comparitive model   -   https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html
 
 Goals:
+  
+  - Learn the limitations of a NN and the basic process. 
+  - Learn accuracy increase from different optimisations.
+  - Learn NN timescale and how benefitial excessive training.
   - I am hoping to match my model within a few percentage to comparitive model.
   - Compare to other MLMs for my premier league predicitons project.
-  - 
+  
