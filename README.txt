@@ -5,7 +5,7 @@ Goals:
   
   - Learn the limitations of a NN and the basic process. 
   - Learn accuracy increase from different optimisations.
-  - Learn NN timescale and how benefitial excessive training.
+  - Learn NN timescale and how beneficial excessive training.
   - I am hoping to match my model within a few percentage to comparitive model.
   - Compare to other MLMs for my premier league predicitons project.
   
