@@ -1,0 +1,6 @@
+Currently have a working NN with the following functions:
+
+1) Neural Network Processing  -  This takes a single row of training data and handles all of the other functions.
+2) Layer Initilisation - Uses xavier initilisation to create random weighting matrices/biases of the specified size.
+3) Node activations - Takes the input row and uses the weigthing matrices/biases with relu activation to produce an output vector.
+4) Backpropogation - Takes output vector, softmaxes and calculates loss gradient and backpropogates through the NN producing new weights.
