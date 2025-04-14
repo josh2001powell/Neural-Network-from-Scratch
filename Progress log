@@ -4,3 +4,18 @@ Currently have a working NN with the following functions:
 2) Layer Initilisation - Uses xavier initilisation to create random weighting matrices/biases of the specified size.
 3) Node activations - Takes the input row and uses the weigthing matrices/biases with relu activation to produce an output vector.
 4) Backpropogation - Takes output vector, softmaxes and calculates loss gradient and backpropogates through the NN producing new weights.
+
+-------------------->     Repeat until all training has been used
+
+
+Results - Significant problem where the network will only produce one guess for all testing data. Commonly predicts 0, 1 or 2 exclusively.
+
+Potential fixes - Already adjusted learning rate without succes
+                - Implement a different initialisation
+                - Lots of nodes are becoming 0 throughout the network so use a more forgiving activation than relu
+
+
+
+
+
+
